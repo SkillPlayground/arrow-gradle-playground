@@ -1,7 +1,7 @@
 [versions]
 publishGradle = "0.16.0"
 arrowGradle = "0.1.0"
-kotest = "4.6.2"
+kotest = "4.6.3"
 kotlin = "1.5.21"
 
 [libraries]
